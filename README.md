@@ -1,9 +1,7 @@
 # Security-testing-software
 Final year BSc. IT project :desktop_computer:	
 
-1) To install all require libraries run -> pip3 install -r requirement.txt
-
-2) Now run -> python3 main.py
+Run -> python3 main.py
 
 ![menu](https://user-images.githubusercontent.com/88587522/128665524-a30ea005-cbaf-467d-95a7-050bf5d9fa67.png)
 
